@@ -1,0 +1,88 @@
+.banner{
+    background-image: url(assets/ERDbrand.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 90%;
+    height: 90vh;
+    border-radius: 4px;
+    margin-top: 100px;
+
+
+    align-self:center;
+    display: flex;
+    place-content: center;
+    flex-direction: column;
+    color: rgb(253, 253, 253);
+    gap: 30px;
+} */
+
+
+.hcontainer{
+    /* border: 1px solid green; */
+    font-size: 35px;
+    max-width:100%;
+    text-align: left;
+    margin-left: 250px;
+
+}
+
+#hcontainer2{
+    /* border: 1px solid green; */
+    font-size: 35px;
+    /* max-width:50%; */
+    text-align:center;
+    align-self: center;
+    /* margin-left: 250px; */
+ 
+}
+
+.jlink a:hover {
+    background-color: black;
+    color: white;
+}
+
+.text-container2 p{
+    font-size: larger;
+    text-align: center;
+    /* opacity: 1; */
+    font-weight: medium;
+    font-size: large;
+    align-self: center;
+    /* margin-left: 250px; */
+    /* border: 1px solid beige; */
+    /* width: 40%; */
+    /* padding: 12px; */
+}
+
+
+.text-container p{
+    font-size: larger;
+    text-align: left;
+    margin-left: 250px;
+    /* border: 1px solid beige; */
+    width: 40%;
+    padding: 12px;
+    color:black;
+}
+
+.text-container a{
+    text-decoration: none;
+    /* border: 1px solid white; */
+    border: 1px solid black;
+
+    padding: 12px;
+    margin: 12px;
+    border-radius: 4px;
+    /* color:white; */
+    color:black;
+    /* background-color:rgba(50, 150, 72, 0.829); */
+    font-weight: 600px;
+    
+}
+
+.text-container a:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+}
